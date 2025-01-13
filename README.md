@@ -1,3 +1,7 @@
+## Link to my Static Site created with Next.Js and deployed through Vercel: https://1-6-exercise.vercel.app/
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
